@@ -2,7 +2,7 @@
 
 In this study, I compare RNN, LSTM and GRU methods for indoor localization/navigation with BLE RSSI readings. 
 
-![Comparison](results.jpg)
+![Comparison](comparison.JPG)
 
 ## DATASET 
 
